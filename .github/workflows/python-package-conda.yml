@@ -4,7 +4,7 @@ name: It Home Auto Sign'
 on:
   push:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch:
   
 env:
